@@ -1,0 +1,22 @@
+{
+  "wheel_id": 435,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-com-101",
+  "project": "retaining-walls-perth-common-mistakes-cb1b5ec13eec20407e8b3d66e",
+  "parent_t1_ref": "retainingwallsperthwa-com-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth common mistakes",
+  "intended_url": "http://retaining-walls-perth-common-mistakes-cb1b5ec13eec20407e8b3d66e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2dcd2ada544c0438",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperthwa-com-150/",
+      "anchor": "https://sitesau.github.io/retainingwallsperthwa-com-150/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
